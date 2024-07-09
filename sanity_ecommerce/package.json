@@ -2,9 +2,9 @@
   "name": "ecommerce",
   "private": true,
   "version": "1.0.0",
-  "description": "",
+  "description": "An ecommerce web application",
   "main": "package.json",
-  "author": " ",
+  "author": "Sumitha S, Varshini G",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
